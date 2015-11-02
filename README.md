@@ -5,6 +5,6 @@
 
 [第三章](https://github.com/seed2013/comnet2015/blob/master/ch3)
 
-[第三章](https://github.com/seed2013/comnet2015/blob/master/ch4)
+[第四章](https://github.com/seed2013/comnet2015/blob/master/ch4)
 
-[第三章](https://github.com/seed2013/comnet2015/blob/master/ch5)
+[第五章](https://github.com/seed2013/comnet2015/blob/master/ch5)
